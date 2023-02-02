@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="101208436" path="/0000-0001-5009-9000/work/101208436" visibility="public">
+    <common:created-date>2021-10-10T00:02:51.622Z</common:created-date>
+    <common:last-modified-date>2022-06-02T05:18:08.109Z</common:last-modified-date>
+    <common:source>
+        <common:source-client-id>
+            <common:uri>https://orcid.org/client/APP-WRQOUAK78G5F7GMD</common:uri>
+            <common:path>APP-WRQOUAK78G5F7GMD</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-client-id>
+        <common:source-name>Multidisciplinary Digital Publishing Institute</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>SP-1, a Serine Protease from the Gut Microbiota, Influences Colitis and Drives Intestinal Dysbiosis in Mice</common:title>
+    </work:title>
+    <work:journal-title>Cells</work:journal-title>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2021</common:year>
+        <common:month>10</common:month>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>doi</common:external-id-type>
+            <common:external-id-value>10.3390/cells10102658</common:external-id-value>
+            <common:external-id-normalized transient="true">10.3390/cells10102658</common:external-id-normalized>
+            <common:external-id-url>https://doi.org/10.3390/cells10102658</common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <common:url>https://www.mdpi.com/2073-4409/10/10/2658</common:url>
+    <work:contributors>
+        <work:contributor>
+            <work:credit-name>Aicha Kriaa</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>first</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Amin Jablaoui</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Soufien Rhimi</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Souha Soussou</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Héla Mkaouar</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Vincent Mariaule</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Natalia Gruba</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-5009-9000</common:uri>
+                <common:path>0000-0001-5009-9000</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>Ali Gargouri</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Emmanuelle Maguin</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-8335-3431</common:uri>
+                <common:path>0000-0001-8335-3431</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>Adam Lesner</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-8067-6526</common:uri>
+                <common:path>0000-0001-8067-6526</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>Moez RHIMI</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+    </work:contributors>
+</work:work>

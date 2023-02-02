@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="89978079" path="/0000-0003-4975-1000/work/89978079" visibility="public">
+    <common:created-date>2021-03-05T00:38:17.431Z</common:created-date>
+    <common:last-modified-date>2021-03-05T00:38:17.431Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0003-4975-1000</common:uri>
+            <common:path>0000-0003-4975-1000</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Pablo Andres</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Design and development of a web-based application for structural shielding calculation of medical X-ray imaging facilities</common:title>
+    </work:title>
+    <work:journal-title>Applied Computing and Informatics</work:journal-title>
+    <work:short-description>A user-friendly HTML-based open-source software has been developed for structural shielding design of medical X-ray imaging facilities. Based on values published by the NCRP Report No 147 the software allows thickness calculatio ns for different materials used in conve ntional X-ray rooms, mammography
+rooms and computed tomograph y rooms, diminishing errors resulting from the use of curves. The software focuses on the optimization principle by consider ing workload distributions instead of applying all the workload at a single high operating potential. The input data can be those recommended by the NCRP Report N  147 or, if the facility has its own data, they can be used instead. With the implemented
+methodology, the code validation was performe d by comparison of the results with a study case provided by the Report. The software application is available in two languages (English and Spanish) and provides the accuracy of the method presented, as well as assisting the physicist in shielding computatio ns in a
+user-friendly manner.</work:short-description>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2019</common:year>
+    </common:publication-date>
+    <common:external-ids/>
+    <work:contributors/>
+    <common:language-code>en</common:language-code>
+</work:work>

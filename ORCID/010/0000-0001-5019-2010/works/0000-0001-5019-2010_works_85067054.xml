@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="85067054" path="/0000-0001-5019-2010/work/85067054" visibility="public">
+    <common:created-date>2020-12-11T08:08:23.631Z</common:created-date>
+    <common:last-modified-date>2020-12-11T08:08:23.631Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0001-5019-2010</common:uri>
+            <common:path>0000-0001-5019-2010</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Cihangir Boztepe</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Prediction of the deswelling behaviors of pH- and temperature-responsive poly(NIPAAm-co-AAc) IPN hydrogel by artificial intelligence techniques</common:title>
+    </work:title>
+    <work:journal-title>Research on Chemical Intermediates</work:journal-title>
+    <work:citation>
+        <work:citation-type>bibtex</work:citation-type>
+        <work:citation-value>@article{Boztepe_2019,	doi = {10.1007/s11164-019-03957-3},	url = {https://doi.org/10.1007%2Fs11164-019-03957-3},	year = 2019,	month = {aug},	publisher = {Springer Science and Business Media {LLC}},	volume = {46},	number = {1},	pages = {409--428},	author = {Cihangir Boztepe and Mehmet Yüceer and As{\i}m Künkül and Musa {\c{S}}ölener and Osman S. Kabasakal},	title = {Prediction of the deswelling behaviors of {pH}- and temperature-responsive poly({NIPAAm}-co-{AAc}) {IPN} hydrogel by artificial intelligence techniques},	journal = {Research on Chemical Intermediates}}</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2020</common:year>
+        <common:month>01</common:month>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>doi</common:external-id-type>
+            <common:external-id-value>10.1007/s11164-019-03957-3</common:external-id-value>
+            <common:external-id-normalized transient="true">10.1007/s11164-019-03957-3</common:external-id-normalized>
+            <common:external-id-url>https://doi.org/10.1007/s11164-019-03957-3</common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+        <common:external-id>
+            <common:external-id-type>issn</common:external-id-type>
+            <common:external-id-value>0922-6168</common:external-id-value>
+            <common:external-id-normalized transient="true">0922-6168</common:external-id-normalized>
+            <common:external-id-url>https://portal.issn.org/resource/ISSN/0922-6168</common:external-id-url>
+            <common:external-id-relationship>part-of</common:external-id-relationship>
+        </common:external-id>
+        <common:external-id>
+            <common:external-id-type>issn</common:external-id-type>
+            <common:external-id-value>1568-5675</common:external-id-value>
+            <common:external-id-normalized transient="true">1568-5675</common:external-id-normalized>
+            <common:external-id-url>https://portal.issn.org/resource/ISSN/1568-5675</common:external-id-url>
+            <common:external-id-relationship>part-of</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <common:url>http://dx.doi.org/10.1007/s11164-019-03957-3</common:url>
+    <work:contributors/>
+    <common:language-code>en</common:language-code>
+</work:work>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="89977916" path="/0000-0003-4975-1000/work/89977916" visibility="public">
+    <common:created-date>2021-03-05T00:26:00.998Z</common:created-date>
+    <common:last-modified-date>2021-03-05T00:28:26.357Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0003-4975-1000</common:uri>
+            <common:path>0000-0003-4975-1000</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Pablo Andres</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Using ITK platform for medical image registration</common:title>
+    </work:title>
+    <work:journal-title>Journal of Physics: Conference Series</work:journal-title>
+    <work:short-description>Within image processing bounds, registration is a fundamental and very important tool when performing diagnosis and/or treatment of different diseases. It becomes necessary to carefully assess the performance of different available methods for each situation, which may be of great numerical complexity. In this work, some known 2D and 3D registration methods are examined (based on mutual information, least squares, B-splines, finite-elements) to be employed for both rigid and elastic registration, making use of ITK libraries and classes in a C++ environment. Our preliminary results suggest that those based on mutual information are most appropriate for brain image registration. Regarding non-rigid or elastic registration, the best results were achieved using B-splines as interpolator. The application of finite elements shows poorer performance and requires further research.</work:short-description>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2007</common:year>
+    </common:publication-date>
+    <common:external-ids/>
+    <work:contributors/>
+    <common:language-code>en</common:language-code>
+</work:work>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="90273999" path="/0000-0001-5001-0010/work/90273999" visibility="public">
+    <common:created-date>2021-03-09T14:27:13.473Z</common:created-date>
+    <common:last-modified-date>2021-03-09T14:27:13.473Z</common:last-modified-date>
+    <common:source>
+        <common:source-client-id>
+            <common:uri>https://orcid.org/client/0000-0002-5982-8983</common:uri>
+            <common:path>0000-0002-5982-8983</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-client-id>
+        <common:source-name>Scopus - Elsevier</common:source-name>
+        <common:assertion-origin-orcid>
+            <common:uri>https://orcid.org/0000-0001-5001-0010</common:uri>
+            <common:path>0000-0001-5001-0010</common:path>
+            <common:host>orcid.org</common:host>
+        </common:assertion-origin-orcid>
+        <common:assertion-origin-name>Francesco AGRUSTI</common:assertion-origin-name>
+    </common:source>
+    <work:title>
+        <common:title>Tecnologie, informatica ed educazione. L'attualità del pensiero visalberghiano</common:title>
+    </work:title>
+    <work:journal-title>Cadmo</work:journal-title>
+    <work:citation>
+        <work:citation-type>bibtex</work:citation-type>
+        <work:citation-value>@article{Agrusti2019,title = {Tecnologie, informatica ed educazione. L{'}attualit{\`a} del pensiero visalberghiano},journal = {Cadmo},year = {2019},volume = {2019},number = {2},pages = {55-61},author = {Agrusti, F.}}</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2019</common:year>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>doi</common:external-id-type>
+            <common:external-id-value>10.3280/CAD2019-002008</common:external-id-value>
+            <common:external-id-normalized transient="true">10.3280/cad2019-002008</common:external-id-normalized>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+        <common:external-id>
+            <common:external-id-type>eid</common:external-id-type>
+            <common:external-id-value>2-s2.0-85083012562</common:external-id-value>
+            <common:external-id-normalized transient="true">2-s2.0-85083012562</common:external-id-normalized>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+        <common:external-id>
+            <common:external-id-type>issn</common:external-id-type>
+            <common:external-id-value>11225165</common:external-id-value>
+            <common:external-id-normalized transient="true">1122-5165</common:external-id-normalized>
+            <common:external-id-relationship>part-of</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <common:url>http://www.scopus.com/inward/record.url?eid=2-s2.0-85083012562&amp;partnerID=MN8TOARS</common:url>
+    <work:contributors>
+        <work:contributor>
+            <work:credit-name>Agrusti, F.</work:credit-name>
+        </work:contributor>
+    </work:contributors>
+</work:work>

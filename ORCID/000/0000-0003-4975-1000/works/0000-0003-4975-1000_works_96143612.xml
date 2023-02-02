@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="96143612" path="/0000-0003-4975-1000/work/96143612" visibility="public">
+    <common:created-date>2021-06-27T13:23:34.016Z</common:created-date>
+    <common:last-modified-date>2021-06-27T13:23:34.016Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0003-4975-1000</common:uri>
+            <common:path>0000-0003-4975-1000</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Pablo Andres</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Protección radiológica del paciente: un tema relacionado con la salud pública</common:title>
+        <common:translated-title language-code="es">Radiation Protection of Patients: An Issue Concerning Public Health</common:translated-title>
+    </work:title>
+    <work:journal-title>Revista Argentina de Salud Pública</work:journal-title>
+    <work:short-description>La protección radiológica del paciente busca evitar dosis innecesarias, que aumentan el riesgo de cáncer en la población. se apunta a justificar y optimizar las prácticas, proteger a los individuos más sensibles, prevenir accidentes, realizar los estudios con radiación sólo cuando son imprescindibles y obtener las mejores imágenes con la menor dosis posible.</work:short-description>
+    <work:citation>
+        <work:citation-type>formatted-apa</work:citation-type>
+        <work:citation-value>Andres y col.- Protección radiológica del paciente: un tema relacionado con la salud pública. Rev Argentsalud Pública, 2016; 7(26): 33-35</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2016</common:year>
+        <common:month>09</common:month>
+    </common:publication-date>
+    <common:external-ids/>
+    <work:contributors/>
+    <common:language-code>es</common:language-code>
+    <common:country>AR</common:country>
+</work:work>

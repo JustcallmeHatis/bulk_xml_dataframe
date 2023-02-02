@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="89978032" path="/0000-0003-4975-1000/work/89978032" visibility="public">
+    <common:created-date>2021-03-05T00:34:17.419Z</common:created-date>
+    <common:last-modified-date>2021-03-05T00:34:17.419Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0003-4975-1000</common:uri>
+            <common:path>0000-0003-4975-1000</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Pablo Andres</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Determination of atmospheric concentration of beryllium-7 at ground level</common:title>
+    </work:title>
+    <work:journal-title>Radiation Protection and Environment</work:journal-title>
+    <work:short-description>Atmospheric concentration of beryllium-7 (7Be) at ground level was measured from September 2012 to
+October 2013 in San Carlos de Bariloche, Argentina, using a HPV-5300AFC brushless, automatic flow
+control outdoor high volume air sampler for continuous use, and 8”×10” 0.8 microns fiberglass filters. The
+activity of 7Be was determined on a high-purity germanium (HPGe) detector (relative efficiency 12.3%) by
+standard gamma spectrometry. The average value found was 4.1 ± 0.1 mBq/m3. Seasonal changes in the
+atmospheric concentration of7Be were compared with other environmental variables (temperature, humidity,
+precipitations, and air kerma rate), and correlation, both positive and negative, was observed as expected.
+Measurements were carried out following the Radiological Environmental Monitoring Programme at
+Bariloche Atomic Centre. The aim of the study was to determine atmospheric concentration of 7Be at ground
+level and to correlate its seasonal changes with environmental variables. Air samplers and environmental
+dosemeter locations were far away from buildings and any other thing that could influence or alter the
+measurements. Pearson’s correlation coefficient was calculated to evaluate the relation between atmospheric
+7Be concentration and environmental variables of interest. These changes in 7Be concentration can be
+attributed to the variations and dynamic of air exchange between the stratosphere and the troposphere
+and to the variations of the tropopause height. To fully understand and correctly interpret the meaning of
+these seasonal variations in the concentrations of atmospheric 7Be, active atmospheric processes must be
+taken into account. According to the measurements carried out, contribution of 7Be concentration to the
+natural background radiation dose is negligible.</work:short-description>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2018</common:year>
+    </common:publication-date>
+    <common:external-ids/>
+    <work:contributors/>
+    <common:language-code>en</common:language-code>
+    <common:country>IN</common:country>
+</work:work>

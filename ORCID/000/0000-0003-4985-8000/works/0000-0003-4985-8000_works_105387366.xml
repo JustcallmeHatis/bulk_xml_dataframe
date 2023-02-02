@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="105387366" path="/0000-0003-4985-8000/work/105387366" visibility="public">
+    <common:created-date>2021-12-28T08:23:30.489Z</common:created-date>
+    <common:last-modified-date>2022-06-02T12:43:35.944Z</common:last-modified-date>
+    <common:source>
+        <common:source-client-id>
+            <common:uri>https://orcid.org/client/0000-0001-9884-1913</common:uri>
+            <common:path>0000-0001-9884-1913</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-client-id>
+        <common:source-name>Crossref</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Quantitative Analysis of Microperfusion in Contrast-Induced Nephropathy Using Contrast-Enhanced Ultrasound: An Animal Study</common:title>
+    </work:title>
+    <work:journal-title>Korean Journal of Radiology</work:journal-title>
+    <work:citation>
+        <work:citation-type>bibtex</work:citation-type>
+        <work:citation-value>@article{Seo_2021,
+	doi = {10.3348/kjr.2020.0577},
+	url = {https://doi.org/10.3348%2Fkjr.2020.0577},
+	year = 2021,
+	publisher = {The Korean Society of Radiology},
+	volume = {22},
+	number = {5},
+	pages = {801},
+	author = {Nieun Seo and Hyewon Oh and Hyung Jung Oh and Yong Eun Chung},
+	title = {Quantitative Analysis of Microperfusion in Contrast-Induced Nephropathy Using Contrast-Enhanced Ultrasound: An Animal Study},
+	journal = {Korean Journal of Radiology}
+}</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2021</common:year>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>doi</common:external-id-type>
+            <common:external-id-value>10.3348/kjr.2020.0577</common:external-id-value>
+            <common:external-id-normalized transient="true">10.3348/kjr.2020.0577</common:external-id-normalized>
+            <common:external-id-url>https://doi.org/10.3348/kjr.2020.0577</common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <common:url>https://doi.org/10.3348/kjr.2020.0577</common:url>
+    <work:contributors>
+        <work:contributor>
+            <work:credit-name>Nieun Seo</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Hyewon Oh</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Hyung Jung Oh</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Yong Eun Chung</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+    </work:contributors>
+</work:work>

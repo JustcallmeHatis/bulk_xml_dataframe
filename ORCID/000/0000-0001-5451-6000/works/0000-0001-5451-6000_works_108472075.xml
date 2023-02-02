@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="108472075" path="/0000-0001-5451-6000/work/108472075" visibility="public">
+    <common:created-date>2022-02-19T07:02:45.254Z</common:created-date>
+    <common:last-modified-date>2022-02-19T07:02:45.254Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0001-5451-6000</common:uri>
+            <common:path>0000-0001-5451-6000</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Sena Wahyu  Purwanza</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Nurses Shift Handover Instrument Development Evaluation Using SBAR Effective Communication Method</common:title>
+        <common:subtitle>Nurses Shift Handover Instrument Development Evaluation Using SBAR Effective Communication Method</common:subtitle>
+    </work:title>
+    <work:journal-title>International Journal of Psychosocial Rehabilitation</work:journal-title>
+    <work:citation>
+        <work:citation-type>formatted-harvard</work:citation-type>
+        <work:citation-value>Kemenkes RI, “Peraturan Menteri Kesehatan tentang Akreditasi RS,” 2017. [2] S. C. Budi et al., “Variasi Insiden berdasarkan Sasaran Keselamatan Pasien di Rumah Sakit,” Pros. Call Pap. SMIKNAS, pp. 59–69, 2019. [3] M. D. Cohen and P. B. Hilligoss, “The published literature on handoffs in hospitals : deficiencies identifiedin an extensive review,” no. April, pp. 1–6, 2010. [4] T. J. Commission, “Sentinel Alert Event,” no. 58, 2017. [5] W. L. Ayala, “Impact of a Standardized Tool on Handoff Quality in Nurse Change-of-Shift Reports,” 2017. [6] K. Alvarado et al., “Transfer of Accountability : Transforming Shift Handover to Enhance Patient Safety,”no. Cchsa, pp. 75–79, 2005. [7] A. Kullberg, L. Sharp, O. Dahl, Y. Brandberg, and M. Bergenmar, “Nurse perceptions of person-centeredhandovers in the oncological inpatient setting – A qualitative study,” Int. J. Nurs. Stud., vol. 86, no. June, pp. 44–51, 2018. [8] Nursalam, Manajemen Keperawatan Aplikasi dalam Praktik Keperawatan Profesional, 5th ed. Jakarta:
+Salemba Medika, 2018. [9] M. Freitag and V. S. Carroll, “Handoff communication: Using failure modes and effects analysis to improvethe transition in care process,” Qual. Manag. Health Care, vol. 20, no. 2, pp. 103–109, 2011. [10] S. Shahid, “Situation , Background , Assessment , Recommendation ( SBAR ) Communication Tool for
+Handoff in Health Care – A Narrative Review,” pp. 1–9, 2018. [11] A. Muhith and S. Siyoto, Aplikasi Komunikasi Terapeutik Nursing &amp; Health, 1st ed. Yogyakarta: Andi, 2018. [12] L. Blom, P. Petersson, P. Hagell, and A. Westergren, “The Situation , Background , Assessment and
+Recommendation ( SBAR ) Model for Communication between Health Care Professionals : AClinical
+Intervention Pilot Study,” vol. 8, no. 3, pp. 530–535, 2015.</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2020</common:year>
+    </common:publication-date>
+    <common:external-ids/>
+    <common:url>https://www.researchgate.net/profile/Rizki-Fitryasari/publication/342673260_Nurses_Shift_Handover_Instrument_Development_Evaluation_Using_SBAR_Effective_Communication_Method/links/5f0029d792851c52d616ee37/Nurses-Shift-Handover-Instrument-Development-Evaluation-Using-SBAR-Effective-Communication-Method.pdf</common:url>
+    <work:contributors/>
+    <common:language-code>en</common:language-code>
+    <common:country>GB</common:country>
+</work:work>

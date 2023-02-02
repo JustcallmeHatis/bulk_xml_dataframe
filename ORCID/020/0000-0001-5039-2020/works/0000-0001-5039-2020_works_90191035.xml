@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="90191035" path="/0000-0001-5039-2020/work/90191035" visibility="public">
+    <common:created-date>2021-03-08T15:51:26.206Z</common:created-date>
+    <common:last-modified-date>2022-06-01T00:06:55.308Z</common:last-modified-date>
+    <common:source>
+        <common:source-client-id>
+            <common:uri>https://orcid.org/client/APP-0JOXOPPRQ09Y9L3Q</common:uri>
+            <common:path>APP-0JOXOPPRQ09Y9L3Q</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-client-id>
+        <common:source-name>Deutsche Nationalbibliothek (DNB)</common:source-name>
+        <common:assertion-origin-orcid>
+            <common:uri>https://orcid.org/0000-0001-5039-2020</common:uri>
+            <common:path>0000-0001-5039-2020</common:path>
+            <common:host>orcid.org</common:host>
+        </common:assertion-origin-orcid>
+        <common:assertion-origin-name>Peter Reuter</common:assertion-origin-name>
+    </common:source>
+    <work:title>
+        <common:title>Die Farben wollen wir nicht den Blumen überlassen</common:title>
+        <common:subtitle>Farbforschung exemplarisch: Siegfried Rösch ; Farbe in der zeitgenössischen Kunst ; [im Rahmen der Ausstellungstrilogie: IRIS. Die Erfindung der Farben von 1600 bis Heute. 1: Goethes Farbenlehre (1810) und die Lehren von den Farben und vom Färben, Stadt- und Industriemuseum Wetzlar, 19.11.2010 - 06.03.2011 ; 2: Farbforschung exemplarisch: Siegfried Rösch, Universitätsbibliothek Gießen, 20.11.2010 - 06.02.2011 ; 3: Farbe in der zeitgenössischen Kunst, Neuer Kunstverein Gießen, 20.11.2010 - 06.02.2011]</common:subtitle>
+    </work:title>
+    <work:citation>
+        <work:citation-type>bibtex</work:citation-type>
+        <work:citation-value>@conference { dnb:1010011308
+, title ={ Die Farben wollen wir nicht den Blumen überlassen. Farbforschung exemplarisch: Siegfried Rösch ; Farbe in der zeitgenössischen Kunst ; [im Rahmen der Ausstellungstrilogie: IRIS. Die Erfindung der Farben von 1600 bis Heute. 1: Goethes Farbenlehre (1810) und die Lehren von den Farben und vom Färben, Stadt- und Industriemuseum Wetzlar, 19.11.2010 - 06.03.2011 ; 2: Farbforschung exemplarisch: Siegfried Rösch, Universitätsbibliothek Gießen, 20.11.2010 - 06.02.2011 ; 3: Farbe in der zeitgenössischen Kunst, Neuer Kunstverein Gießen, 20.11.2010 - 06.02.2011] }, publisher ={ Univ.-Bibliothek }, address ={ Gießen }, year ={ 2011 }, author ={ Marcel Baumgartner, Markus Lepper, Peter Reuter }, pages ={ 88 S. }, series ={ Universitätsbibliothek Gießen }, number ={ 60 }, language ={ DEUTSCH }, type ={ KONFERENZSCHRIFT }, isbn ={ 978-3-9808042-9-5 }, biburl ={ https://d-nb.info/1010011308 } 
+}</work:citation-value>
+    </work:citation>
+    <work:type>conference-paper</work:type>
+    <common:publication-date>
+        <common:year>2011</common:year>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>dnb</common:external-id-type>
+            <common:external-id-value>1010011308</common:external-id-value>
+            <common:external-id-normalized transient="true">1010011308</common:external-id-normalized>
+            <common:external-id-url>https://d-nb.info/1010011308</common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+        <common:external-id>
+            <common:external-id-type>isbn</common:external-id-type>
+            <common:external-id-value>978-3-9808042-9-5</common:external-id-value>
+            <common:external-id-normalized transient="true">9783980804295</common:external-id-normalized>
+            <common:external-id-url></common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <work:contributors>
+        <work:contributor>
+            <work:credit-name>Marcel Baumgartner</work:credit-name>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Markus Lepper</work:credit-name>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Peter Reuter</work:credit-name>
+        </work:contributor>
+    </work:contributors>
+    <common:language-code>de</common:language-code>
+    <common:country>DE</common:country>
+</work:work>

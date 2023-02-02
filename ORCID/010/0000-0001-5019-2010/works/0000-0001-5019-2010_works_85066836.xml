@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="85066836" path="/0000-0001-5019-2010/work/85066836" visibility="public">
+    <common:created-date>2020-12-11T08:06:57.073Z</common:created-date>
+    <common:last-modified-date>2020-12-11T08:06:57.073Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0001-5019-2010</common:uri>
+            <common:path>0000-0001-5019-2010</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Cihangir Boztepe</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Heterogenization of homogeneous NHC-Pd-pyridine catalysts and investigation of their catalytic activities in Suzuki-Miyaura coupling reactions</common:title>
+    </work:title>
+    <work:journal-title>Journal of Organometallic Chemistry</work:journal-title>
+    <work:citation>
+        <work:citation-type>bibtex</work:citation-type>
+        <work:citation-value>@article{Boztepe_2018,	doi = {10.1016/j.jorganchem.2018.07.004},	url = {https://doi.org/10.1016%2Fj.jorganchem.2018.07.004},	year = 2018,	month = {oct},	publisher = {Elsevier {BV}},	volume = {872},	pages = {123--134},	author = {Cihangir Boztepe and Asim Künkül and Sedat Ya{\c{s}}ar and Nevin Gürbüz},	title = {Heterogenization of homogeneous {NHC}-Pd-pyridine catalysts and investigation of their catalytic activities in Suzuki-Miyaura coupling reactions},	journal = {Journal of Organometallic Chemistry}}</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2018</common:year>
+        <common:month>10</common:month>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>doi</common:external-id-type>
+            <common:external-id-value>10.1016/j.jorganchem.2018.07.004</common:external-id-value>
+            <common:external-id-normalized transient="true">10.1016/j.jorganchem.2018.07.004</common:external-id-normalized>
+            <common:external-id-url>https://doi.org/10.1016/j.jorganchem.2018.07.004</common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+        <common:external-id>
+            <common:external-id-type>issn</common:external-id-type>
+            <common:external-id-value>0022-328X</common:external-id-value>
+            <common:external-id-normalized transient="true">0022-328X</common:external-id-normalized>
+            <common:external-id-url>https://portal.issn.org/resource/ISSN/0022-328X</common:external-id-url>
+            <common:external-id-relationship>part-of</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <common:url>http://dx.doi.org/10.1016/j.jorganchem.2018.07.004</common:url>
+    <work:contributors/>
+    <common:language-code>en</common:language-code>
+</work:work>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="109422007" path="/0000-0001-5009-9000/work/109422007" visibility="public">
+    <common:created-date>2022-03-08T01:02:16.469Z</common:created-date>
+    <common:last-modified-date>2022-06-02T21:40:54.675Z</common:last-modified-date>
+    <common:source>
+        <common:source-client-id>
+            <common:uri>https://orcid.org/client/APP-WRQOUAK78G5F7GMD</common:uri>
+            <common:path>APP-WRQOUAK78G5F7GMD</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-client-id>
+        <common:source-name>Multidisciplinary Digital Publishing Institute</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Whole and Purified Aqueous Extracts of &lt;i&gt;Nigella sativa&lt;/i&gt; L. Seeds Attenuate Apoptosis and the Overproduction of Reactive Oxygen Species Triggered by p53 Over-Expression in the Yeast &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;</common:title>
+    </work:title>
+    <work:journal-title>Cells</work:journal-title>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2022</common:year>
+        <common:month>03</common:month>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>doi</common:external-id-type>
+            <common:external-id-value>10.3390/cells11050869</common:external-id-value>
+            <common:external-id-normalized transient="true">10.3390/cells11050869</common:external-id-normalized>
+            <common:external-id-url>https://doi.org/10.3390/cells11050869</common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <common:url>https://www.mdpi.com/2073-4409/11/5/869</common:url>
+    <work:contributors>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-6818-6970</common:uri>
+                <common:path>0000-0001-6818-6970</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>wafa mihoubi</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>first</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Emna Sahli</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Fatma Rezgui</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Najeh Dabebi</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Rabiaa Sayehi</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Hajer Hassairi</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Najla Masmoudi-Fourati</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Kamel Walha</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Khalifa ben Khadhra</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Mohamed Baklouti</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-8181-9445</common:uri>
+                <common:path>0000-0001-8181-9445</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>Imen GHZAIEL</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-7317-8895</common:uri>
+                <common:path>0000-0001-7317-8895</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>SAMI FATTOUCH</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Hela Menif</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Raja Mokdad-Gargouri</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-6330-0172</common:uri>
+                <common:path>0000-0001-6330-0172</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>Gérard Hubert LIZARD</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <common:contributor-orcid>
+                <common:uri>http://orcid.org/0000-0001-5009-9000</common:uri>
+                <common:path>0000-0001-5009-9000</common:path>
+                <common:host>orcid.org</common:host>
+            </common:contributor-orcid>
+            <work:credit-name>Ali Gargouri</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-sequence>additional</work:contributor-sequence>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+    </work:contributors>
+</work:work>

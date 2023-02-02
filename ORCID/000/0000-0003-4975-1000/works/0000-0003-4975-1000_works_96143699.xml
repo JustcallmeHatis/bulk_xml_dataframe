@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="96143699" path="/0000-0003-4975-1000/work/96143699" visibility="public">
+    <common:created-date>2021-06-27T13:28:12.331Z</common:created-date>
+    <common:last-modified-date>2021-06-27T13:28:12.331Z</common:last-modified-date>
+    <common:source>
+        <common:source-orcid>
+            <common:uri>https://orcid.org/0000-0003-4975-1000</common:uri>
+            <common:path>0000-0003-4975-1000</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-orcid>
+        <common:source-name>Pablo Andres</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Cultura de seguridad del paciente en prácticas médicas con radiaciones ionizantes: una revisión conceptual</common:title>
+        <common:translated-title language-code="es">Patient Safety Culture in Medical Practices with Ionizing Radiation: A Conceptual Review</common:translated-title>
+    </work:title>
+    <work:journal-title>Revista Argentina de Salud Pública</work:journal-title>
+    <work:short-description>Introducción: La cultura de seguridad del paciente implica un compromiso de pacientes y familiares, personal de salud, directivos y responsables de desarrollar e implementar las políticas sanitarias. Su fortalecimiento aumenta la seguridad de todos los involucrados en las prácticas con radiaciones ionizantes, minimizando los riesgos que atentan contra la salud individual, colectiva y ambiental.
+Objetivos: Introducir el concepto de cultura de seguridad del paciente aplicado a prácticas que utilizan radiaciones ionizantes en el ámbito de la salud pública. Método: Revisión bibliográfica para investigar las experiencias relacionadas con la cultura de seguridad en las prácticas médicas que utilizan fuentes de radiación ionizante, en sentido general. Resultados: Se precisaron los conceptos de cultura, cultura de seguridad y cultura de seguridad del paciente, enfatizando la necesidad de crear un ambiente propicio para reducir la probabilidad de incidentes y accidentes. Conclusiones: El compromiso
+con la seguridad del paciente y la cultura de seguridad del paciente debe estar lo suficientemente consolidado como para aceptar la responsabilidad y el desafío de garantizar que los pacientes estén y se sientan seguros. Las instituciones que realizan actividades con fuentes de radiación tienen la responsabilidad de alcanzar y sostener el más alto nivel de cultura de seguridad.</work:short-description>
+    <work:citation>
+        <work:citation-type>formatted-apa</work:citation-type>
+        <work:citation-value>Andres y col.- Cultura de seguridad del paciente en prácticas médicas con radiaciones ionizantes: una revisión conceptual. Rev Argent Salud Pública, 2018; 9(36): 35-38</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2018</common:year>
+        <common:month>10</common:month>
+    </common:publication-date>
+    <common:external-ids/>
+    <work:contributors/>
+    <common:country>AR</common:country>
+</work:work>

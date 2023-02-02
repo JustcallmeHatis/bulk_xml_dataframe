@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<work:work xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review" put-code="100504355" path="/0000-0001-5032-5020/work/100504355" visibility="public">
+    <common:created-date>2021-09-25T00:02:21.872Z</common:created-date>
+    <common:last-modified-date>2022-06-02T04:07:14.849Z</common:last-modified-date>
+    <common:source>
+        <common:source-client-id>
+            <common:uri>https://orcid.org/client/0000-0001-9884-1913</common:uri>
+            <common:path>0000-0001-9884-1913</common:path>
+            <common:host>orcid.org</common:host>
+        </common:source-client-id>
+        <common:source-name>Crossref</common:source-name>
+    </common:source>
+    <work:title>
+        <common:title>Coagulation factor IX gene transfer to non-human primates using engineered AAV3 capsid and hepatic optimized expression cassette</common:title>
+    </work:title>
+    <work:journal-title>Molecular Therapy - Methods &amp; Clinical Development</work:journal-title>
+    <work:citation>
+        <work:citation-type>bibtex</work:citation-type>
+        <work:citation-value>@article{Kumar_2021,
+	doi = {10.1016/j.omtm.2021.08.001},
+	url = {https://doi.org/10.1016%2Fj.omtm.2021.08.001},
+	year = 2021,
+	month = {dec},
+	publisher = {Elsevier {BV}},
+	volume = {23},
+	pages = {98--107},
+	author = {Sandeep R.P. Kumar and Jun Xie and Shilang Hu and Jihye Ko and Qifeng Huang and Harrison C. Brown and Alok Srivastava and David M. Markusic and Christopher B. Doering and H. Trent Spencer and Arun Srivastava and Guangping Gao and Roland W. Herzog},
+	title = {Coagulation factor {IX} gene transfer to non-human primates using engineered {AAV}3 capsid and hepatic optimized expression cassette},
+	journal = {Molecular Therapy - Methods {\&amp;} Clinical Development}
+}</work:citation-value>
+    </work:citation>
+    <work:type>journal-article</work:type>
+    <common:publication-date>
+        <common:year>2021</common:year>
+        <common:month>12</common:month>
+    </common:publication-date>
+    <common:external-ids>
+        <common:external-id>
+            <common:external-id-type>doi</common:external-id-type>
+            <common:external-id-value>10.1016/j.omtm.2021.08.001</common:external-id-value>
+            <common:external-id-normalized transient="true">10.1016/j.omtm.2021.08.001</common:external-id-normalized>
+            <common:external-id-url>https://doi.org/10.1016/j.omtm.2021.08.001</common:external-id-url>
+            <common:external-id-relationship>self</common:external-id-relationship>
+        </common:external-id>
+    </common:external-ids>
+    <common:url>https://doi.org/10.1016/j.omtm.2021.08.001</common:url>
+    <work:contributors>
+        <work:contributor>
+            <work:credit-name>Sandeep R.P. Kumar</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Jun Xie</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Shilang Hu</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Jihye Ko</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Qifeng Huang</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Harrison C. Brown</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Alok Srivastava</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>David M. Markusic</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Christopher B. Doering</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>H. Trent Spencer</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Arun Srivastava</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Guangping Gao</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+        <work:contributor>
+            <work:credit-name>Roland W. Herzog</work:credit-name>
+            <work:contributor-attributes>
+                <work:contributor-role>author</work:contributor-role>
+            </work:contributor-attributes>
+        </work:contributor>
+    </work:contributors>
+</work:work>
